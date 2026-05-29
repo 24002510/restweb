@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex.06 Complex Problem: Restaurant Website
 ## Date:29/05/2026
 
 ## AIM:
